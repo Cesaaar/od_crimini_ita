@@ -1,8 +1,8 @@
-# Open Data - Omicidi Volontari in Italia e in Europa
+# Omicidi Volontari in Italia e in Europa
 
 ## Configurazioni
 
-1. Installare Anaconda
+1. Installare Anaconda https://www.anaconda.com/download/
 2. Creare un ambiente anaconda
     > conda create --name opendata pandas
 3. Attivare l'ambiente opendata

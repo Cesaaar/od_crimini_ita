@@ -1,5 +1,7 @@
 # Crimini Italia
-Omicidi volontari in Italia e in Europa
+Dal 2008 al 2012, la cittadina messicana al confine con gli Stati Uniti, Ciudad de Juarez, è stata ampiamente considerata il luogo più pericoloso della Terra...
+*segue su*
+<a href="http://www.ildatomancante.it/opendata/giustizia/85/la-citta-piu-pericolosa-del-mondo/" target="_blank">Il Dato Mancante</a>
 
 ## Fonti Dati
 | Fonte | Descrizione | Link |

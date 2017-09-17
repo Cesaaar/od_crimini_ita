@@ -14,6 +14,9 @@ Dal 2008 al 2012, la cittadina messicana al confine con gli Stati Uniti, Ciudad 
 | ------ | ------ |
 | output/omicidi_volontari.html | Distribuzione Omicidi Volontari per Regione Italiana |
 | output/Top3_Regioni.csv | Top 3 Regioni Pericolose - Numero Omicidi Volontari |
+| output/topcitta.png | Top 10 Città Pericolose Italia - Numero Omicidi Volontari |
+| output/omicidi_volontari_eu.html | Distribuzione Omicidi Volontari in Europa |
+| output/topeurcitta.png| Top 10 Città Pericolose Europa - Numero Omicidi Volontari |
 
 ## Configurazioni
 Queste istruzioni ti permetteranno di realizzare una copia del progetto in locale per eseguire il codice.
